@@ -1,7 +1,7 @@
 ﻿{
     "name": "app",
     "description": "app",
-    "keywords": ["appppa"],
+    "keywords": ["appppa","fefei"],
     "env": {
         "AA": {
             "description": "Deploy",
