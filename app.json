@@ -1,0 +1,25 @@
+﻿{
+    "name": "app",
+    "description": "app",
+    "keywords": ["appppa"],
+    "env": {
+        "AA": {
+            "description": "Deploy",
+            "value": "app"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        },
+        "CADDYIndexPage": {
+            "description": "View",
+            "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
